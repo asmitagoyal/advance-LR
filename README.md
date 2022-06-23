@@ -1,4 +1,4 @@
-# advance-Linear Regression
+# Advanced Linear Regression
 
 Has Python code 
 Has PDF file with all 4 QNAs
